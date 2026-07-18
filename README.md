@@ -1,3 +1,3 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Banner" width="100%">
-</p>
+<div>
+   <video src="assets/banner.mp4" width="100%" controls autoplay muted loop></video> 
+</div>
