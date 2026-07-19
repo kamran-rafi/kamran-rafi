@@ -37,9 +37,9 @@ I began my journey from <a href="https://www.learncpp.com"><i><b>LearnCpp</b></i
 
 <table>
   <tr>
-    <th align="center" width="320"><img src="./assets/languages.svg" ></th>
-    <th align="center" width="320"><h2>[ Frontend ]</h2></th>
-    <th align="center" width="320"><h2>[ Backend ]</h2></th>
+    <th align="center" width="360"><img src="./assets/languages.svg" ></th>
+    <th align="center" width="360"><img src="./assets/frontend.svg" ></th>
+    <th align="center" width="360"><img src="./assets/backend.svg" ></th>
   </tr>
 
   <tr>
