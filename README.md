@@ -81,19 +81,20 @@ I began my journey from <a href="https://www.learncpp.com"><i><b>LearnCpp</b></i
   </tr>
 </table>
 
-
-<h2 align="center">📬 CONTACT ME</h2>
+<p align="center">
+  <img src="./assets/connection.svg" width="35%" alt="Skills Status">
+</p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/kamran-rafi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/kamran-rafi-91058036b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:you@example.com">
+  <a href="mailto:kamran4malik2@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
