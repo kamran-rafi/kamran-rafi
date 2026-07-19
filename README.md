@@ -82,7 +82,7 @@ I began my journey from <a href="https://www.learncpp.com"><i><b>LearnCpp</b></i
 </table>
 
 <p align="center">
-  <img src="./assets/connection.svg" width="35%" alt="Skills Status">
+  <img src="./assets/connection.svg" width="38%" alt="Skills Status">
 </p>
 
 <p align="center">
@@ -97,4 +97,13 @@ I began my journey from <a href="https://www.learncpp.com"><i><b>LearnCpp</b></i
   <a href="mailto:kamran4malik2@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+
+  <a href="https://x.com/sudo_sama">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+
+  <a href="https://www.facebook.com/kamran4malik2">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  
 </p>
