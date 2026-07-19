@@ -85,25 +85,38 @@ I began my journey from <a href="https://www.learncpp.com"><i><b>LearnCpp</b></i
   <img src="./assets/connection.svg" width="38%" alt="Skills Status">
 </p>
 
-<p align="center">
-  <a href="https://github.com/kamran-rafi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/kamran-rafi-91058036b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:kamran4malik2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://x.com/sudo_sama">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-
-  <a href="https://www.facebook.com/kamran4malik2">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-  
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/kamran-rafi">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="50%" height="128px">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/kamran-rafi-91058036b">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="50%" height="128px">
+        </a>
+      </p>
+      <p align="center">
+         <a href="mailto:kamran4malik2@gmail.com">
+          <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="50%" height="128px">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://x.com/sudo_sama">
+          <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" width="50%" height="10%">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://www.facebook.com/kamran4malik2">
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="50%" height="128px">
+        </a>
+      </p>
+    </td>
+    <td width="50%%" align="center" valign="top">
+      <p>Right</p>
+      <img src="https://dummyimage.com/250x1/000/000.png" width="480" height="1">
+    </td>
+  </tr>
+</table>
