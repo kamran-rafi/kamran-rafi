@@ -30,3 +30,42 @@ I began my journey from <a href="https://www.learncpp.com"><i><b>LearnCpp</b></i
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="./assets/skillsstatus.svg" width="100%" alt="Skills Status">
+</p>
+
+<table>
+  <tr>
+    <th align="center" width="320"><h2>[ Languages ]</h2></th>
+    <th align="center" width="320"><h2>[ Frontend ]</h2></th>
+    <th align="center" width="320"><h2>[ Backend ]</h2></th>
+  </tr>
+
+  <tr>
+    <td valign="top">
+
+- <i>C/C++</i>
+- <i>Java</i>
+- <i>JavaScript</i>
+
+</td>
+
+<td valign="top">
+
+- <i>React</i>
+- <i>Tailwind CSS</i>
+- <i>HTML/CSS</i>
+
+</td>
+
+<td valign="top">
+
+- <i>Node.js</i>
+- <i>Express</i>
+- <i>MongoDB</i>
+
+</td>
+  </tr>
+</table>
+
