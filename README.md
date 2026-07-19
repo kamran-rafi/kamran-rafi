@@ -121,3 +121,7 @@ I began my journey from <a href="https://www.learncpp.com"><i><b>LearnCpp</b></i
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="./assets/bestondesktop.gif" width="100%" alt="Best viewed on desktop">
+</p>
