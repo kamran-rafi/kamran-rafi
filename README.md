@@ -10,27 +10,23 @@ I began my programming journey by learning <b>C++</b> through <a href="https://w
 </p>
 
 <table width="100%">
-<tr>
-<td width="100%" valign="top">
-
-<p>---> <b>[🎓]</b> <i>Bachelor of Computer Science</i></p>
-<p>---> <b>[💻]</b> <i>MERN Stack Developer</i></p>
-<p>---> <b>[🛠️]</b> <i>Systems Engineering</i></p>
-<p>---> <b>[🧩]</b> <i>Problem Solving</i></p>
-<p>---> <b>[🌕]</b> <i>Moon</i></p>
-<p>cool <b><i>personal</i></b> site <b>⤵︎</b></p>
-<p>
-  <a href="https://kamran.app" >
-    <img src="./assets/website.gif" alt="kamran.app">
-  </a>
-</p>
-
-</td>
-
-<td width="100%" align="center">
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXkxb3NpMmNhNWdhMHQ2b2l6cXUzbm10emhuYnl6MnU0amZlaXl5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SaSAUwiGPsPtswfPRk/giphy.gif" alt="Avatar" width="100%">
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>---> <b>[🎓]</b> <i>Bachelor of Computer Science</i></p>
+      <p>---> <b>[💻]</b> <i>MERN Stack Developer</i></p>
+      <p>---> <b>[🛠️]</b> <i>Systems Engineering</i></p>
+      <p>---> <b>[🧩]</b> <i>Problem Solving</i></p>
+      <p>---> <b>[🌕]</b> <i>Moon</i></p>
+      <p>cool <b><i>personal</i></b> site <b>⤵︎</b></p>
+      <p>
+        <a href="https://kamran.app">
+          <img src="./assets/website.gif" alt="kamran.app">
+        </a>
+      </p>
+    </td>
+    <td width="50%%" align="center" valign="top">
+      <img src="./assets/son_goku.webp" height="320" alt="Avatar">
+       <img src="https://dummyimage.com/250x1/000/000.png" width="480" height="1">
+    </td>
+  </tr>
 </table>
