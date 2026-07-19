@@ -31,7 +31,7 @@ I began my journey from <a href="https://www.learncpp.com"><i><b>LearnCpp</b></i
   </tr>
 </table>
 
-<p align="center">
+<p align="left">
   <img src="./assets/skillsstatus.svg" width="50%" alt="Skills Status">
 </p>
 
@@ -81,7 +81,7 @@ I began my journey from <a href="https://www.learncpp.com"><i><b>LearnCpp</b></i
   </tr>
 </table>
 
-<p align="center">
+<p align="left">
   <img src="./assets/connection.svg" width="38%" alt="Skills Status">
 </p>
 
