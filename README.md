@@ -32,7 +32,7 @@ I began my journey from <a href="https://www.learncpp.com"><i><b>LearnCpp</b></i
 </table>
 
 <p align="center">
-  <img src="./assets/skillsstatus.svg" width="60%" alt="Skills Status">
+  <img src="./assets/skillsstatus.svg" width="50%" alt="Skills Status">
 </p>
 
 <table>
@@ -70,9 +70,12 @@ I began my journey from <a href="https://www.learncpp.com"><i><b>LearnCpp</b></i
 
 <td valign="top">
 
-- <i>Node.js</i>
-- <i>Express</i>
-- <i>MongoDB</i>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </td>
   </tr>
