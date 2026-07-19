@@ -32,7 +32,7 @@ I began my journey from <a href="https://www.learncpp.com"><i><b>LearnCpp</b></i
 </table>
 
 <p align="center">
-  <img src="./assets/skillsstatus.svg" width="100%" alt="Skills Status">
+  <img src="./assets/skillsstatus.svg" width="60%" alt="Skills Status">
 </p>
 
 <table>
