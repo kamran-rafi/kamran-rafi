@@ -12,6 +12,7 @@ I began my programming journey by learning <b>C++</b> through <a href="https://w
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h2>This is <b><i>ME</i></b></h2>
       <p>---> <b>[🎓]</b> <i>Bachelor of Computer Science</i></p>
       <p>---> <b>[💻]</b> <i>MERN Stack Developer</i></p>
       <p>---> <b>[🛠️]</b> <i>Systems Engineering</i></p>
