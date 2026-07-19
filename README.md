@@ -43,7 +43,7 @@ I began my journey from <a href="https://www.learncpp.com"><i><b>LearnCpp</b></i
   </tr>
 
   <tr>
-    <td valign="top">
+<td valign="top">
 
 - <i>C/C++</i>
 - <i>Java</i>
