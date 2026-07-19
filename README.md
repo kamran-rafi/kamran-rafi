@@ -2,7 +2,7 @@
   <img src="./assets/banner.gif" width="100%" alt="Ad astra per aspera">
 </p>
 
-<h1><b>Hi,</b> I am <b><i>KAMRAN</i></b> 👋</h1>
+<h1><b>Hi,</b> I am  <img src="./assets/kamran.svg" height="320" alt="Avatar"> <b><i>!</i></b></h1>
 
 <p>
 I began my programming journey by learning <b>C++</b> through <a href="https://www.learncpp.com">LearnCpp</a>. After building a solid foundation, I moved on to <b>Java</b> and started exploring <b><i>Android development</i></b>. Along the way, I experimented with several technologies, including <b>Flutter</b>, the <b>GTK library</b>, and eventually <b>React</b>. Over time, I found myself most interested in web development and decided to specialize in <b><i>MERN Stack Development</i></b> while continuing to focus on my university studies.
@@ -27,7 +27,7 @@ I began my programming journey by learning <b>C++</b> through <a href="https://w
     </td>
     <td width="50%%" align="center" valign="top">
       <img src="./assets/son_goku.webp" height="320" alt="Avatar">
-       <img src="https://dummyimage.com/250x1/000/000.png" width="480" height="1">
+      <img src="https://dummyimage.com/250x1/000/000.png" width="480" height="1">
     </td>
   </tr>
 </table>
