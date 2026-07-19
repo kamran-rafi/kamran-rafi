@@ -11,7 +11,7 @@ I began my journey from <a href="https://www.learncpp.com"><i><b>LearnCpp</b></i
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h2>This is <b><i>ME</i></b></h2>
+      <h2>This is <b><i>ME</i></b> 🥀</h2>
       <p>---> <b>[🎓]</b> <i>Bachelor of Computer Science</i></p>
       <p>---> <b>[💻]</b> <i>MERN Stack Developer</i></p>
       <p>---> <b>[🛠️]</b> <i>Systems Engineering</i></p>
