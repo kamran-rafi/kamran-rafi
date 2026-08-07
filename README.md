@@ -2,7 +2,7 @@
   <img src="./assets/banner.gif" width="100%" alt="Ad astra per aspera">
 </p>
 
-<h1><b>Hi,</b> I am  <img src="./assets/kamran.svg" height="320" alt="Avatar"> <b><i>!</i></b></h1>
+<h1><b>Hi,</b> I am  <img src="./assets/kamran.svg" height="24" alt="Avatar"> <b><i>!</i></b></h1>
 
 <p>
 I began my journey from <a href="https://www.learncpp.com"><i><b>LearnCpp</b></i></a>. After building a solid foundation in <b>Programming</b>, I started experimenting with <b>Flutter</b>, the <b>GTK library</b>, and eventually <b>React</b>. Eventually, I to decided to specialize in <b><i>MERN Stack Development</i></b> while continuing to focus on my university studies.
