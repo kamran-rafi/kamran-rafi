@@ -19,7 +19,7 @@ I began my journey from <a href="https://www.learncpp.com"><i><b>LearnCpp</b></i
       <p>---> <b>[🌕]</b> <i>Moon</i></p>
       <p>cool <b><i>personal</i></b> site <b>⤵︎</b></p>
       <p>
-        <a href="https://kamran.app">
+        <a href="https://kamran.is-a.dev">
           <img src="./assets/website.gif" alt="kamran.app">
         </a>
       </p>
